@@ -8,9 +8,9 @@
 
 ## Frontend
 ### projets
-1.[Coffebean.com]()
+1. [Coffebean.com]()
 
 ## Backend
 ### projets
-1.[Lifegame]()  
-2.[PokemonSite]()
+1. [Lifegame]()  
+2. [PokemonSite]()
