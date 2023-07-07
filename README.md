@@ -1,7 +1,9 @@
 # Web
 ## Sommaire  
-1. [Frontend](#Frontend)
-   - [Theorie](#table-des-matières)
+1. [Frontend](#Frontend)  
+   - [Theorie](#table-des-matières)  
+   - [Projets](#Projets-frontend)  
+2.[Backend](#Backend)  
 
 ## Frontend
 ## Table des matières
@@ -126,7 +128,7 @@ HTTP est conçu pour être extensible et permettre une évolution du client. Il 
 Dans le développement d'une application web, il est courant de séparer l'application en trois grandes couches : le stockage des données sur le serveur, le traitement des données et la présentation des données pour l'interaction avec le client. Ces trois composants sont maintenus distincts, en utilisant des principes tels que l'encapsulation et l'extensibilité indépendante. Selon les besoins, le traitement des données peut être effectué entièrement sur le serveur (client léger) ou entièrement dans le client (client lourd). Il est également possible d'opter pour une approche mixte, où le client et le serveur partagent le traitement des données. Les avantages du web client plus léger sont nombreux : le protocole HTTP offre une tolérance aux pannes, des performances élevées et une sécurité renforcée grâce à HTTPS. Les navigateurs sont devenus des plateformes génériques, permettant l'exécution de code JavaScript à la demande, sans nécessité de déploiement ni de mises à jour, et offrant une indépendance du terminal. Les technologies web sont libres, bien documentées et faciles à mettre en place, favorisant la composition de services et l'intégration de fonctionnalités telles que les cartes Google Maps. Du côté client, les données sont représentées en HTML, la présentation est gérée par CSS, et le traitement des données est effectué en JavaScript.
 
 
-### projets
+### Projets frontend
 1.[Coffeebean.com](https://github.com/itszaaak/CoffeeBean.com)
 
 ## Backend
