@@ -9,21 +9,21 @@
 
 # Frontend
 ### Table des matières frontend
-1. [Introduction](#introduction)  
-2. [Structures Web](#structures-web)  
-    2.1 [Client](#client)  
-    2.2 [Server](#server)  
-    2.3 [Passerelle](#passerelle)  
-    2.4 [Cache](#cache)  
-    2.5 [Proxy](#proxy)  
-    2.6 [Reverse Proxy](#reverse-proxy)  
-    2.7 [CDN](#cdn)  
-3. [Hypermedia](#hypermedia)  
-4. [Adressage](#adressage)  
-    4.1 [L'url](#lurl)  
-    4.2 [DNS](#dns)    
-5. [HTTP](#http)  
-6. [Côté client](#côté-client)  
+1. [Introduction](#introduction)
+2. [Structures Web](#structures-web)
+    2.1 [Client](#client)
+    2.2 [Server](#server)
+    2.3 [Passerelle](#passerelle)
+    2.4 [Cache](#cache)
+    2.5 [Proxy](#proxy)
+    2.6 [Reverse Proxy](#reverse-proxy)
+    2.7 [CDN](#cdn)
+3. [Hypermedia](#hypermedia)
+4. [Adressage](#adressage)
+    4.1 [L'url](#lurl)
+    4.2 [DNS](#dns)
+5. [HTTP](#http)
+6. [Côté client](#côté-client)
 
 
 
@@ -137,23 +137,24 @@ Dans le développement d'une application web, il est courant de séparer l'appli
 # Backend
 ### Table des matières backend
 
-1. [Côté server](#côté-server)    
-   1.1 [CGI](#cgi)    
-   1.2 [Langage embarqué](#langage-embarqué)    
-   1.3 [FastCGI](#fastcgi)   
-   1.4 [Server d'application et application autonome](#server-dapplication-et-application-autonome)  
-   1.5 [Cookies et sessions](#cookies-et-sessions)   
-2. [MVC](#mvc)    
-   2.1 [Contrôleur](#contrôleur)  
-   2.2 [Modèle](#modèle)  
-   2.3 [Vue](#vue)  
-   2.4 [Renderer et MVCR](#renderer-et-mvcr)  
-3.[Internationalisation](#Internationalisation)  
-4.[Gestion d'accès aux ressources](#gestion-daccès-aux-ressources)  
-   4.1 [TLS](#tls-transport-layer-security)  
-   4.2 [Certificat TLS](#certificat-tls)  
-   4.3 [Sécurité des mots de passe](#sécurité-des-mots-de-passe)  
-5. [Projets backend](#projets-backend)  
+1. [Côté server](#côté-server)
+   1.1 [CGI](#cgi)
+   1.2 [Langage embarqué](#langage-embarqué)
+   1.3 [FastCGI](#fastcgi)
+   1.4 [Server d'application et application autonome](#server-dapplication-et-application-autonome)
+   1.5 [Cookies et sessions](#cookies-et-sessions)
+2. [MVC](#mvc)
+   2.1 [Contrôleur](#contrôleur)
+   2.2 [Modèle](#modèle)
+   2.3 [Vue](#vue)
+   2.4 [Renderer et MVCR](#renderer-et-mvcr)
+3. [Internationalisation](#internationalisation)
+4. [Gestion d'accès aux ressources](#gestion-daccès-aux-ressources)
+   4.1 [TLS](#tls-transport-layer-security)
+   4.2 [Certificat TLS](#certificat-tls)
+   4.3 [Sécurité des mots de passe](#sécurité-des-mots-de-passe)
+5. [Projets backend](#projets-backend)
+
 
 
 
