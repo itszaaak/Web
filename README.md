@@ -1,13 +1,7 @@
 # Web
 ## Sommaire  
-1.[Frontend](##Frontend)      
-   - [Theorie](##Table-des-matières)  
-   - [Projets](##projets)
-
-2.[Backend](##Backend)    
-   - [Theorie]  
-   - [Projets]
-
+1. [Frontend](#Frontend)
+   - [Theorie](#table-des-matières)
 
 ## Frontend
 ## Table des matières
