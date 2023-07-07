@@ -10,19 +10,20 @@
 ### Table des matières
 1. [Introduction](#introduction)
 2. [Structures Web](#structures-web)
-  - [Client](#client)
-  - [Server](#server)
-  - [Passerelle](#passerelle)
-  - [Cache](#cache)
-  - [Proxy](#proxy)
-  - [Reverse Proxy](#reverse-proxy)
-  - [CDN](#cdn)
+    - [Client](#client)
+    - [Server](#server)
+    - [Passerelle](#passerelle)
+    - [Cache](#cache)
+    - [Proxy](#proxy)
+    - [Reverse Proxy](#reverse-proxy)
+    - [CDN](#cdn)
 3. [Hypermedia](#hypermedia)
 4. [Adressage](#adressage)
     - [L'url](#lurl)
     - [DNS](#dns)
 5. [HTTP](#http)
 6. [Côté client](#côté-client)
+
 
 
 
