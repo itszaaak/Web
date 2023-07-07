@@ -21,7 +21,7 @@
 3. [Hypermedia](#hypermedia)  
 4. [Adressage](#adressage)  
     4.1 [L'url](#lurl)  
-    4.2 [DNS](#dns)  
+    4.2 [DNS](#dns)    
 5. [HTTP](#http)  
 6. [Côté client](#côté-client)  
 
