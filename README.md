@@ -9,21 +9,21 @@
 
 # Frontend
 ### Table des matières frontend
-1. [Introduction](#introduction)
-2. [Structures Web](#structures-web)
-    2.1 [Client](#client)
-    2.2 [Server](#server)
-    2.3 [Passerelle](#passerelle)
-    2.4 [Cache](#cache)
-    2.5 [Proxy](#proxy)
-    2.6 [Reverse Proxy](#reverse-proxy)
-    2.7 [CDN](#cdn)
-3. [Hypermedia](#hypermedia)
-4. [Adressage](#adressage)
-    4.1 [L'url](#lurl)
-    4.2 [DNS](#dns)
-5. [HTTP](#http)
-6. [Côté client](#côté-client)
+1. [Introduction](#introduction)  
+2. [Structures Web](#structures-web)  
+    2.1 [Client](#client)  
+    2.2 [Server](#server)  
+    2.3 [Passerelle](#passerelle)  
+    2.4 [Cache](#cache)  
+    2.5 [Proxy](#proxy)  
+    2.6 [Reverse Proxy](#reverse-proxy)  
+    2.7 [CDN](#cdn)  
+3. [Hypermedia](#hypermedia)  
+4. [Adressage](#adressage)  
+    4.1 [L'url](#lurl)  
+    4.2 [DNS](#dns)  
+5. [HTTP](#http)  
+6. [Côté client](#côté-client)  
 
 
 
